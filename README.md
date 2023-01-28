@@ -1,7 +1,6 @@
 # MachineLearning
-This is a sample program
+This is part of documentation for a course.
 
-## Program 1
+## Portfolio
 
-This program does something but I'm not sure what
-you can see the code [the code](program1.py) and a [descriptive document here](sampledoc.pdf) 
+This is the portfolio for Machine Learning [here](Portfolio - Machine Learning.pdf) 
