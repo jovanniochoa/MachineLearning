@@ -12,3 +12,8 @@ This is the summary of Data Exploration [here](DataExploration.pdf)
 ### Assignment 2 Linear Models
 This is the results from the Regression Model [here](Regression.pdf) 
 This is the result from the Classification model [here](Classification.pdf) 
+
+### Assignment 3 ML Algorithms from Scratch
+This is the results from the Linear Regression Model in C++ [here](LinearRegression.pdf) 
+This is the result from the Naive Bayes model in C++ [here](NaiveBayes.pdf) 
+This is the document to explain my findings [here](LinearAndBayes.pdf) 
