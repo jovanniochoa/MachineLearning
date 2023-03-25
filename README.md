@@ -17,3 +17,6 @@ This is the result from the Classification model [here](Classification.pdf)
 This is the results from the Linear Regression Model in C++ [here](LinearRegression.cpp) 
 This is the result from the Naive Bayes model in C++ [here](NaiveBayes.cpp) 
 This is the document to explain my findings [here](LinearAndBayes.pdf) 
+
+### Group Project - Person 4
+This is the results from my PCA and LCA dimensionality reduction [here](PCA and LDA.pdf)
