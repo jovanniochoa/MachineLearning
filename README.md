@@ -19,8 +19,8 @@ This is the result from the Naive Bayes model in C++ [here](NaiveBayes.cpp)
 This is the document to explain my findings [here](LinearAndBayes.pdf) 
 
 ### Group Project 1 Searching for Similarities
-Diego Ochoa - Regression [here](SFSRegression)
-Dmitrii Obideiko - Classiffication [here](clustering2.pdf)
-Samuel Ofiaza - Clustering [here](Clustering.pdf)
-Jovanni Ochoa(me) - PCA and LCA [here](PCA_and_LDA.pdf)
+Diego Ochoa - Regression [here](SFSRegression) <br />
+Dmitrii Obideiko - Classiffication [here](clustering2.pdf) <br />
+Samuel Ofiaza - Clustering [here](Clustering.pdf) <br />
+Jovanni Ochoa(me) - PCA and LCA [here](PCA_and_LDA.pdf) <br />
 Ved Nigam - Manager [here](Searching_For_Similarities.pdf)
