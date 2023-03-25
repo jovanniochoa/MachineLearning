@@ -18,5 +18,9 @@ This is the results from the Linear Regression Model in C++ [here](LinearRegress
 This is the result from the Naive Bayes model in C++ [here](NaiveBayes.cpp) 
 This is the document to explain my findings [here](LinearAndBayes.pdf) 
 
-### Group Project - Person 4
-This is the results from my PCA and LCA dimensionality reduction [here](PCA_and_LDA.pdf)
+### Group Project 1 Searching for Similarities
+Diego Ochoa - Regression [here](SFSRegression)
+Dmitrii Obideiko - Classiffication [here](clustering2.pdf)
+Samuel Ofiaza - Clustering [here](Clustering.pdf)
+Jovanni Ochoa(me) - PCA and LCA [here](PCA_and_LDA.pdf)
+Ved Nigam - Manager [here](Searching_For_Similarities.pdf)
