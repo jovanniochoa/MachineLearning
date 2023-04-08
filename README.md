@@ -26,4 +26,4 @@ Jovanni Ochoa(me) - PCA and LCA [here](PCA_and_LDA.pdf) <br />
 Ved Nigam - Manager [here](Searching_For_Similarities.pdf)
 
 ### Assignment 4 ML with sklearn
-This is the result from the ML with sklearn Model [here](ML _with_sklearn.ipynb - Colaboratory.pdf)
+This is the result from the ML with sklearn Model [here](ML_with_sklearn.ipynb-Colaboratory.pdf)
