@@ -28,4 +28,5 @@ Ved Nigam - Manager [here](Searching_For_Similarities.pdf)
 ### Assignment 4 ML with sklearn
 This is the result from the ML with sklearn Model [here](ML_with_sklearn.ipynb-Colaboratory.pdf)
 
-### Assignment 5 Image Sclassification with keras [here](ImageClassification.pdf)
+### Assignment 5 Image Classification with keras 
+This is the results for the Image Classification [here](ImageClassification.pdf)
